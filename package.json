@@ -1,0 +1,19 @@
+{
+    "name": "kysely-tsc-error",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "check": "tsc"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^5.1.6"
+    },
+    "dependencies": {
+        "@types/pg": "^8.10.2",
+        "kysely": "^0.25.0",
+        "pg": "^8.11.1"
+    }
+}
